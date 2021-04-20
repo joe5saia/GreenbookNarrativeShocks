@@ -1,4 +1,6 @@
 name: Unit Tests for Greenbook Shocks
+
+on:
   push:
     branches:
       - main
