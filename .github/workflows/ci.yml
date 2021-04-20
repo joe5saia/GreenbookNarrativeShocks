@@ -1,4 +1,4 @@
-name: Unit Tests for Greenbook Shocks
+name: Unit_Tests_for_Greenbook_Shocks
 
 on:
   push:
