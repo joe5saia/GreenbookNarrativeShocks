@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="greenbook-shocks",  # Replace with your own username
-    version="0.0.1",
+    version="0.0.2",
     author="Joe Saia",
     author_email="joe5saia@gmail.com",
     description="Estimates the Greenbook narrative shocks",
@@ -27,7 +27,7 @@ setuptools.setup(
     ],
     test_suite='nose.collector',
     tests_require=['nose'],
-    python_requires='>=3.6',
+    python_requires='>=3.9',
     include_package_data=True,
     package_data={'': ['data/rr.pkl.gz']},
 )
