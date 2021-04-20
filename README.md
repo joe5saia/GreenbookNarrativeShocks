@@ -1,4 +1,6 @@
 # GreenbookNarrativeShocks
+[![codecov](https://codecov.io/gh/joe5saia/GreenbookNarrativeShocks/branch/main/graph/badge.svg?token=SU03NVCCJS)](https://codecov.io/gh/joe5saia/GreenbookNarrativeShocks)
+![Basic Build](https://github.com/joe5saia/GreenbookNarrativeShocks/workflows/Unit_Tests_for_Greenbook_Shocks/badge.svg)
 
 This package estimates up to date Romer and Romer Greenbook Narrative shocks, originally from
 [A New Measure of Monetary Shocks: Derivation and Implications](https://www.aeaweb.org/articles?id=10.1257/0002828042002651), 2004.
