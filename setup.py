@@ -19,13 +19,11 @@ setuptools.setup(
         "Operating System :: OS Independent",
     ],
     install_requires=[
-        'numpy',
+        'openpyxl',
         'sklearn',
         'datapungi_fed',
         'urllib3',
-        'bs4',
-        'sklearn',
-        'openpyxl'
+        'bs4'
     ],
     test_suite='nose.collector',
     tests_require=['nose'],

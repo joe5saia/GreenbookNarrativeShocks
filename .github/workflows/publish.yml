@@ -1,4 +1,4 @@
-name: Publish Double_Debias to pypi
+name: Publish GreenbookNarrativeShocks to pypi
 
 on:
   release:

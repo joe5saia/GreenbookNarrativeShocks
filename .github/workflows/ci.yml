@@ -1,5 +1,4 @@
-name: Double_Debias
-on:
+name: Unit Tests for Greenbook Shocks
   push:
     branches:
       - main
