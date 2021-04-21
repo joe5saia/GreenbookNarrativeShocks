@@ -6,7 +6,7 @@ This package estimates up to date Romer and Romer Greenbook Narrative shocks, or
 [A New Measure of Monetary Shocks: Derivation and Implications](https://www.aeaweb.org/articles?id=10.1257/0002828042002651), 2004.
 
 # Installation
-`pip install greenbookshocks`
+`pip install greenbook-shocks`
 
 # Usage
 The core class is the `RRGB` (Romer and Romer GreenBook) class. When this class is instantiated it
